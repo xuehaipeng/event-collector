@@ -1,0 +1,7 @@
+domain: github.com
+repo: github.com/xuehaipeng/event-collector
+resources:
+- group: redis.kun
+  kind: DistributedRedisCluster
+  version: v1alpha1
+version: "2"

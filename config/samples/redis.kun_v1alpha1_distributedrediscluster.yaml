@@ -1,0 +1,7 @@
+apiVersion: redis.kun/v1alpha1
+kind: DistributedRedisCluster
+metadata:
+  name: distributedrediscluster-sample
+spec:
+  # Add fields here
+  foo: bar
